@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    font-size: 50 px;
+    margin: 0 px;
+    background-color: blue;
+    text-align: center;
+}
+h3 {
+    color: gray;
+    background-color: aqua;
+    font-style: italic;
+    text-align: right;
+}
+h6 {
+    background-color: beige;
+    text-align: center;
+    margin: auto;
+}
+p {
+    background-color: antiquewhite;
+    font-size: large;
+}
